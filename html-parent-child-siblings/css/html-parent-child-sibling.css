@@ -1,0 +1,25 @@
+.container {
+    background: #ededed;
+    padding: 40px;
+}
+h1 {
+    background-color: #7ae07a;
+    padding: 10px;
+    color: #fff;
+}
+.top {
+    background: #93f4f6;
+    padding: 20px;
+}
+.middle {
+    background: #e593f6;
+    padding: 20px;
+}
+.intro {
+    background-color: yellow;
+    padding: 10px;
+}
+img {
+  width: 100%;
+  max-width: 400px;
+}
