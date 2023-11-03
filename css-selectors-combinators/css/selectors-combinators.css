@@ -16,3 +16,21 @@
 
 
 /* დაასელექთე  მხოლოდ ის <p> ელემენტები, რომელიც კლასს "container-thirs"-ის შვილის <div>-ში არის მოქცეული */
+
+div:first-of-type .paragraph+p {
+    color: red;
+}
+
+.paragraph-second ~ p {
+color: blue;
+}
+.container p {
+    color: red;
+}
+.container-second > p {
+    color: orange;
+
+}
+.container-third div p {
+    color: yellow;
+}
