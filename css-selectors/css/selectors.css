@@ -113,7 +113,7 @@ div:nth-of-type(3) p {
 
 
 /* ეს არ გამომივიდა */
-div:nth-of-type(3):last-child {
+  div:nth-of-type(3) p {
   border-style: solid;
   border: 5px;
   border-color: white;

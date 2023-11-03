@@ -1,11 +1,15 @@
 .container {
+    margin: 0px 70px 0px 70px;
     background: #ededed;
     padding: 40px;
 }
 h1 {
-    background-color: #7ae07a;
+    font-size: 60px;
     padding: 10px;
     color: #fff;
+}
+h2 {
+    font-size: 30px;
 }
 .top {
     background: #93f4f6;
